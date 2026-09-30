@@ -9,7 +9,7 @@ Welcome to my student portfolio for my master's degree in Data Science. This rep
 - Tools & Technologies: Git, Jupyter Notebook, RStudio, PyCharm
 
 ## Connect with me
-Email: sophie.schoeneberg@protonmail.com
+Email: sophie.schoeneberg@protonmail.com <br>
 LinkedIn: https://linkedin.com/in/sophie-sch%C3%B6neberg-71476b298
 
 ## License
