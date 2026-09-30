@@ -1,0 +1,31 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python (run scripts locally)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment/secrets 
+.env
+*.key
+
+# LaTeX build artifacts 
+*.aux
+*.log
+*.out
