@@ -10,6 +10,7 @@ Welcome to my student portfolio for my master's degree in Data Science. This rep
 
 ## Connect with me
 Email: sophie.schoeneberg@protonmail.com
+LinkedIn: https://linkedin.com/in/sophie-sch%C3%B6neberg-71476b298
 
 ## License
 Code in this repository is licensed under the [MIT License](LICENSE).
