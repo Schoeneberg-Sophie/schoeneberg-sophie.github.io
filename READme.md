@@ -1,5 +1,5 @@
 ## License
 
-The code in this repository (Python, R) is licensed under the [MIT License](LICENSE).
+Code in this repository (HTML, CSS, JavaScript) is licensed under the [MIT License](LICENSE).
 
-Written content - including project write-ups, analysis, and the bachelor thesis text and figures - is © Sophie Schöneberg. Please do not reproduce without permission.
+Written content - including project write-ups, analysis, and the bachelor thesis text and figures - is licensed under [CC BY 4.0](LICENSE-CONTENT.md). Reuse is welcome with proper attribution to Sophie Schöneberg.
