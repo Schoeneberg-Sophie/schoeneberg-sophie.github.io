@@ -28,4 +28,4 @@ law enforcement, and nothing here should be construed as legal advice.
 
 **License / Contact:** If you are a data subject, camera operator, or rights 
 holder with a concern about content in this repository, please open an issue 
-it will be reviewed.
+and it will be reviewed.
