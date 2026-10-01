@@ -10,7 +10,8 @@ To implement this project in a fun way, I wondered if the most famous spy on Ear
 
 
 ## Project Outline
-1. Pull data from DeFlock and save as geospatial dataset
+1. Pull data from DeFlock and save as geospatial dataset <br>
+   Note: DeFlock gets data from OSM, I downloaded surveillance cameras data in San Francicso via [Overpass Turbo](https://overpass-turbo.eu/). See /api for more details. 
 2. Overlay the Bond route with the surveillance data
 3. Run a route-avoidance to generate the 'path of least resistance'
 4. Assess model
