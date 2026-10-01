@@ -24,3 +24,7 @@ I use the DeFlock public dataset from [DeFlock.org](https://deflock.org). This s
 </p>
 
 DeFlock uses data from OSM to depict where those cameras are situated in San Francisco. The city is an ideal case study due to the detailed route depicted in the movie and the availability of data.
+
+## See Also: 
+[Disclaimer](DISCLAIMER.md)
+
