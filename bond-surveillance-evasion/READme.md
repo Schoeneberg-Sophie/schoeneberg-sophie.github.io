@@ -1,5 +1,5 @@
 # Project Idea
-Flock cameras eemerged as a salient contemporary issue of the American public in the last two years, with many public rights activists criticising the lack or privacy these Flock cameras cause. <br>
+Flock cameras eemerged as a salient contemporary issue of the American public in the last two years, with many public rights activists criticising the lack of privacy these Flock cameras cause. <br>
 My goal is not to debate this political issue or the ethical implications of such, nor do I want to criticise the the corporate entitty Flock per se, but rather use the datatset of Flock cameras to research the growing surveillance of public life in democatric countries. <br>
 To implement this project in a fun way, I wondered if the most famous spy on Earth, James Bond, could still walk through San Francisco undetected just like he did in the 1985 movie 'A View to a Kill', and if not, how long his possible detour would take today assuming he were aware of all surveillance cameras.
 
